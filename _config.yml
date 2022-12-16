@@ -1,11 +1,11 @@
 # Site settings
-title: LzL Blog
-SEOTitle: 廖哲霖的博客 | LzL Blog
+title: LiaoZhelin Blog
+SEOTitle: 廖哲霖的博客 | LiaoZhelin Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: zhangzhoulzl@gmail.com
 description: "这里是 @LzL廖哲霖 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "廖哲霖, LzL廖哲霖, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+#url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+#weibo_username: liaozhelin
+#zhihu_username: liaozhelin
+#github_username: liaozhelin
+#twitter_username: liaozhelin
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
