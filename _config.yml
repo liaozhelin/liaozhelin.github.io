@@ -4,7 +4,7 @@ SEOTitle: 廖哲霖的博客
 header-img: img/home-bg.jpg
 email: zhangzhoulzl@gmail.com
 description: "Hi,这里是 @廖哲霖 的个人博客 | 要做一个有思维的程序员"
-keyword: " 杂谈, 硬件 , 软件 , 三维设计 , Linux , 深度学习 "
+keyword: " 杂谈 , 硬件 , 软件 , 三维设计 , Linux , 深度学习 , 控制算法"
 #url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
